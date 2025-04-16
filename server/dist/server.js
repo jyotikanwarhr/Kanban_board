@@ -10,6 +10,9 @@ const PORT = process.env.PORT || 3001;
 app.use(express.static('../client/dist'));
 app.use(express.json());
 app.use(routes);
+app.use("*", (_req, res) => {
+    res.sendFile('index.html', { root: '../client/dist' });
+});
 sequelize.sync({ force: forceDatabaseRefresh }).then(() => {
     app.listen(PORT, () => {
         console.log(`Server is listening on port ${PORT}`);
