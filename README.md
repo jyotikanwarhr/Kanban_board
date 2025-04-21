@@ -13,7 +13,7 @@
   - [Usage](#usage)
   - [Technologies](#technologies)
   - [URL Link](#url-link)
-  - [Tests](#tests)
+  - [Tests] (#tests)
   - [License](#license)
 
   ## Installation
@@ -73,16 +73,6 @@
  ![Nodemon Badge](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
 
  ![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-  ## Screenshots
-  
-  <img src="assets/HomeScreen.png" alt="Home page screen" width="600" style="margin-bottom: 20px;">
-
-  <img src="assets/Login.png" alt="Login screen" width="600" style="margin-bottom: 20px;">
-
-  <img src="assets/KanbanBoard.png" alt="Kanban board with three section to organize projects with todo, in progress and done" width="600" style="margin-bottom: 20px;">
-
-  <img src="assets/CreateTicket.png" alt="Create ticket page to create new tickets to add to the board" width="600" style="margin-bottom: 20px;">
 
   ## URL Link
   Here is the deployed link URL: https://kanban-board-2ey3.onrender.com
