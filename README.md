@@ -75,7 +75,7 @@
  ![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
   ## URL Link
-  Here is the deployed link URL: https://kanban-board-2ey3.onrender.com
+  Here is the deployed link URL: https://kanban-board-2ey3.onrender.com/
   
 
   ## Tests
